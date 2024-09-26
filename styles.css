@@ -24,4 +24,13 @@ body{
     background-color: #f0f0f0;
   }
 
+  button {
+    width: 100px;
+    height: 40px; 
+    background-color: gray; 
+    color: white; 
+    text-align: center;
+    line-height: 35px;
+    display: inline-block;
+  }
   
